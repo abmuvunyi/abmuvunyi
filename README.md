@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abmuvunyi
+- 👋 Hi, I’m Abdallah MUVUNYI
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ReactJs
